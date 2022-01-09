@@ -1,0 +1,2 @@
+include ':Words App'
+rootProject.name = "Words"
